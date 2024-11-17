@@ -1,1 +1,1 @@
-# data-cleaning-tool
+The Data Cleaning Tool's repository hosts a Python-scripted API server tailored for data cleansing operations. With this tool, users can upload CSV or Excel files to be processed, invoke data cleaning procedures on these files, and compute various statistics on their datasets. Leveraging Flask or FastAPI frameworks, this server ensures secure file handling by storing uploads in designated directories. This makes it an essential utility for anyone looking to refine their data for better analysis and insights.
